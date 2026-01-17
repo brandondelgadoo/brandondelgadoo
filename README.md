@@ -1,4 +1,8 @@
 ## Hi there 👋
+My name is Brandon Delgado. I am a third year student at FIU pursuing both a Masters and Bachelor of Science in Computer Science.
+I am currently working on a couple school projects, I don't know the ideas or problems they're going solve yet but I am very excited.
+I love playing video games, going to the gym, woprking out, playing basketball and playing golf.
+I am also open to working on any projects if you need more people to join so let me know and I'll happily contribute.
 
 <!--
 **brandondelgadoo/brandondelgadoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
